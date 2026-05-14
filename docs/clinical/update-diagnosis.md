@@ -4,9 +4,13 @@ page_id: 48496932
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48496932
 ---
 
-### ObjectiveThis SOP explains how to add or update a diagnosis for a patient in Care, including editing diagnosis details and managing notes or removal if needed. 
+### Objective
 
-### Key Steps**1. Open Encounter Actions and start a new diagnosis update** [0:02](https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44?t=2)
+This SOP explains how to add or update a diagnosis for a patient in Care, including editing diagnosis details and managing notes or removal if needed. 
+
+### Key Steps
+
+**1. Open Encounter Actions and start a new diagnosis update** [0:02](https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44?t=2)
 
 ![https://loom.com/i/23a7fe4ce9dc47c5ac12409ff17e785d?workflows_screenshot=true](../images/external-928e5263f5b6.jpg)
 - Navigate to the patient’s encounter record.
@@ -65,4 +69,6 @@ Add notes
 
 - If multiple diagnosis updates are needed, complete and review each one before moving to the next.
 
-### Link to Loom[https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44](https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44)
+### Link to Loom
+
+[https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44](https://loom.com/share/870d7d55e55c44b681b69ce1a6528c44)

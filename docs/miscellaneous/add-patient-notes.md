@@ -4,9 +4,13 @@ page_id: 48497006
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48497006
 ---
 
-### ObjectiveThis SOP explains how to access a patient profile, open the patient notes section, and create or use conversation threads to document patient-related information. It helps team members organize non-clinical and social notes clearly within the patient record.
+### Objective
 
-### Key Steps**1. Search for the Patient and Open the Profile** [0:00](https://loom.com/share/844b431417314a3192b99fa61a5dae25?t=0)
+This SOP explains how to access a patient profile, open the patient notes section, and create or use conversation threads to document patient-related information. It helps team members organize non-clinical and social notes clearly within the patient record.
+
+### Key Steps
+
+**1. Search for the Patient and Open the Profile** [0:00](https://loom.com/share/844b431417314a3192b99fa61a5dae25?t=0)
 
 ![https://loom.com/i/076f2c9678604b18ab5b4e87af684698?workflows_screenshot=true](../images/external-ec5020feb3a7.jpg)
 - Search for the correct patient in the system.
@@ -66,4 +70,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Document information as soon as possible to reduce the chance of missing details.
 
-### Link to Loom[https://loom.com/share/844b431417314a3192b99fa61a5dae25](https://loom.com/share/844b431417314a3192b99fa61a5dae25)
+### Link to Loom
+
+[https://loom.com/share/844b431417314a3192b99fa61a5dae25](https://loom.com/share/844b431417314a3192b99fa61a5dae25)

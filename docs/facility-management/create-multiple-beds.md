@@ -4,9 +4,13 @@ page_id: 48562438
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562438
 ---
 
-### ObjectiveThis SOP explains how to add multiple beds to a specific location within the system. It guides the user through selecting the correct ward, creating the beds, and optionally customizing bed names for easier identification.
+### Objective
 
-### Key Steps**1. Navigate to the correct location** [0:02](https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd?t=2)
+This SOP explains how to add multiple beds to a specific location within the system. It guides the user through selecting the correct ward, creating the beds, and optionally customizing bed names for easier identification.
+
+### Key Steps
+
+**1. Navigate to the correct location** [0:02](https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd?t=2)
 
 ![https://loom.com/i/b1c45c20b0e14541afd77f38a05641a3?workflows_screenshot=true](../images/external-39f700bb943a.jpg)
 - Go to **Settings**.
@@ -62,4 +66,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Review the created beds immediately after saving to catch any errors early.
 
-### Link to Loom[https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd](https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd)
+### Link to Loom
+
+[https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd](https://loom.com/share/8ca2fdd2cfff42bfbc9879878a41b1fd)

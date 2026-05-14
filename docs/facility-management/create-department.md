@@ -4,9 +4,13 @@ page_id: 48627947
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48627947
 ---
 
-### ObjectiveThis SOP explains how to create a new department within Care. Follow these steps to ensure the department is added correctly and can be used by your facility team.
+### Objective
 
-### Key Steps**1. Select the relevant Facility** [0:02](https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e?t=2)
+This SOP explains how to create a new department within Care. Follow these steps to ensure the department is added correctly and can be used by your facility team.
+
+### Key Steps
+
+**1. Select the relevant Facility** [0:02](https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e?t=2)
 
 ![https://loom.com/i/a3ffd96857f644feb365d46d0fcdcf3e?workflows_screenshot=true](../images/external-f75352c5b3b1.jpg)
 - Login to **Care** and **select your facility** first.
@@ -52,4 +56,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - After creation, **confirm the success message** before navigating away from the page.
 
-### Link to Loom[https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e](https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e)
+### Link to Loom
+
+[https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e](https://loom.com/share/f69d4dcdfd08471a85bfd3b1d753c39e)

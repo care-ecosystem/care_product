@@ -4,7 +4,9 @@ page_id: 48627870
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48627870
 ---
 
-### ObjectiveThis SOP explains how to add a new health facility record in the system and complete the basic configuration details. Following these steps helps ensure facility information is accurate, complete, and ready for operational use.
+### Objective
+
+This SOP explains how to add a new health facility record in the system and complete the basic configuration details. Following these steps helps ensure facility information is accurate, complete, and ready for operational use.
 
 ### Key Steps
 - Login as the Administrator, you will be taken to the Admin Dashboard
@@ -88,4 +90,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Use the facility list and view page to quickly confirm that the new record was created correctly.
 
-### Link to Loom[https://loom.com/share/7e246b2f62214b53aadcb4abea8ae222](https://loom.com/share/7e246b2f62214b53aadcb4abea8ae222)
+### Link to Loom
+
+[https://loom.com/share/7e246b2f62214b53aadcb4abea8ae222](https://loom.com/share/7e246b2f62214b53aadcb4abea8ae222)

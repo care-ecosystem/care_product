@@ -4,9 +4,13 @@ page_id: 48595101
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595101
 ---
 
-### ObjectiveThis SOP explains how to create a new healthcare service in Care, including naming the service, assigning its type, linking the correct location and department, and selecting an icon. Following these steps ensures the service is properly configured and accessible to the right users.
+### Objective
 
-### Key Steps**1. Open the Healthcare Services setup area** [0:02](https://loom.com/share/37a19e5edb9647fbb99288180d8387d3?t=2)
+This SOP explains how to create a new healthcare service in Care, including naming the service, assigning its type, linking the correct location and department, and selecting an icon. Following these steps ensures the service is properly configured and accessible to the right users.
+
+### Key Steps
+
+**1. Open the Healthcare Services setup area** [0:02](https://loom.com/share/37a19e5edb9647fbb99288180d8387d3?t=2)
 
 ![https://loom.com/i/2b52f0455dc34b5e806bb09e59273909?workflows_screenshot=true](../images/external-75241ee25192.jpg)
 - Navigate to **Settings** in Care.
@@ -74,4 +78,6 @@ Example: **Main Building – Ground Floor**.
 
 - Verify linked locations and departments immediately after creation to catch configuration errors early.
 
-### Link to Loom[https://loom.com/share/37a19e5edb9647fbb99288180d8387d3](https://loom.com/share/37a19e5edb9647fbb99288180d8387d3)
+### Link to Loom
+
+[https://loom.com/share/37a19e5edb9647fbb99288180d8387d3](https://loom.com/share/37a19e5edb9647fbb99288180d8387d3)

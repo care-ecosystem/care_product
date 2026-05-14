@@ -4,9 +4,13 @@ page_id: 48595543
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595543
 ---
 
-### ObjectiveThis SOP explains how to cancel an appointment, reschedule an appointment, and check-in a patient from the patient homepage. It ensures staff can complete each action accurately and confirm the patient’s appointment status before consultation.
+### Objective
 
-### Key Steps**1. Open the Patient Homepage and Access Appointments** [0:00](https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c?t=0)
+This SOP explains how to cancel an appointment, reschedule an appointment, and check-in a patient from the patient homepage. It ensures staff can complete each action accurately and confirm the patient’s appointment status before consultation.
+
+### Key Steps
+
+**1. Open the Patient Homepage and Access Appointments** [0:00](https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c?t=0)
 
 ![https://loom.com/i/d790ebabf4b5474e9c9147900458da58?workflows_screenshot=true](../images/external-87880abe14cc.jpg)
 - Navigate to the **patient homepage**.
@@ -73,4 +77,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Verify the updated appointment status immediately after each action to ensure the system reflects the correct information.
 
-### Link to Loom[https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c](https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c)
+### Link to Loom
+
+[https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c](https://loom.com/share/f74d82e13e014a17a467d4eb29cd9e2c)

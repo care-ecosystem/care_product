@@ -4,9 +4,13 @@ page_id: 55672834
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/55672834
 ---
 
-### ObjectiveThis SOP explains how to add a new user or link an existing user to a department in CARE. It ensures the user is assigned the correct responsibility, access level, and organizational details before saving.
+### Objective
 
-### Key Steps**1. Open the Departments area** [0:00](https://loom.com/share/537ce7ad667841ca99cfe330d6239afb?t=0)
+This SOP explains how to add a new user or link an existing user to a department in CARE. It ensures the user is assigned the correct responsibility, access level, and organizational details before saving.
+
+### Key Steps
+
+**1. Open the Departments area** [0:00](https://loom.com/share/537ce7ad667841ca99cfe330d6239afb?t=0)
 
 ![https://loom.com/i/d49bea8559d643a7a85a5388d3dc60c6?workflows_screenshot=true](../images/external-d75cb5413968.jpg)
 - In the left navigation bar, click **Departments**.
@@ -104,4 +108,6 @@ Doctor
 
 - For existing users, search by the most specific identifier available to save time.
 
-### Link to Loom[https://loom.com/share/537ce7ad667841ca99cfe330d6239afb](https://loom.com/share/537ce7ad667841ca99cfe330d6239afb)
+### Link to Loom
+
+[https://loom.com/share/537ce7ad667841ca99cfe330d6239afb](https://loom.com/share/537ce7ad667841ca99cfe330d6239afb)

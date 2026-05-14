@@ -4,9 +4,13 @@ page_id: 48627910
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48627910
 ---
 
-### ObjectiveThis SOP explains how to create a discount code and apply a discount component in the billing settings. It ensures that patients with the specified tag receive the correct discount automatically.
+### Objective
 
-### Key Steps**1. Navigate to Billing Discount Settings** [0:03](https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb?t=3)
+This SOP explains how to create a discount code and apply a discount component in the billing settings. It ensures that patients with the specified tag receive the correct discount automatically.
+
+### Key Steps
+
+**1. Navigate to Billing Discount Settings** [0:03](https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb?t=3)
 
 ![https://loom.com/i/e65d1346e32a4cd8926f3f8b4767112e?workflows_screenshot=true](../images/external-834f30a96155.jpg)
 - Go to **Settings**.
@@ -94,4 +98,6 @@ Use **Factor** for percentage-based discounts.
 
 - Standardize discount setup for common groups, such as staff or members, to speed up future configurations.
 
-### Link to Loom[https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb](https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb)
+### Link to Loom
+
+[https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb](https://loom.com/share/35fda1caa9294d8ab6c4f491da3b5ddb)

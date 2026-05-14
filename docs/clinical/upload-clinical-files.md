@@ -4,9 +4,13 @@ page_id: 48628074
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48628074
 ---
 
-### ObjectiveThis SOP explains how to upload clinical files into Care. It ensures team members can add documents correctly using the available upload options and save them with an appropriate file name.
+### Objective
 
-### Key Steps**1. Open the Files Section in the Patient Dashboard** [0:03](https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9?t=3)
+This SOP explains how to upload clinical files into Care. It ensures team members can add documents correctly using the available upload options and save them with an appropriate file name.
+
+### Key Steps
+
+**1. Open the Files Section in the Patient Dashboard** [0:03](https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9?t=3)
 
 ![https://loom.com/i/3533b6dbca364a378b3bdc360a33492a?workflows_screenshot=true](../images/external-e99d3e4f2bd2.jpg)
 - From the **patient dashboard**, locate the **Files** option at the top.
@@ -68,4 +72,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Verify the upload immediately after completion to avoid duplicate uploads or missing files.
 
-### Link to Loom[https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9](https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9)
+### Link to Loom
+
+[https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9](https://loom.com/share/47df51fd00174d77afb6aab72b03c6a9)

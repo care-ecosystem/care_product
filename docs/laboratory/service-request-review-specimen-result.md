@@ -4,9 +4,13 @@ page_id: 48595619
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595619
 ---
 
-### ObjectiveTo provide lab technicians with a clear, repeatable process for reviewing laboratory service requests, documenting specimen collection, entering test results, and publishing approved reports. This SOP ensures accurate record keeping, proper approval workflow, and timely availability of results to doctors.
+### Objective
 
-### Key Steps**1. Open Laboratory Services and Review Requests** [0:11](https://loom.com/share/f40a739818534470bab0341befb03065?t=11)
+To provide lab technicians with a clear, repeatable process for reviewing laboratory service requests, documenting specimen collection, entering test results, and publishing approved reports. This SOP ensures accurate record keeping, proper approval workflow, and timely availability of results to doctors.
+
+### Key Steps
+
+**1. Open Laboratory Services and Review Requests** [0:11](https://loom.com/share/f40a739818534470bab0341befb03065?t=11)
 
 ![https://loom.com/i/e92ad530463c4cd79dfbd533f5515957?workflows_screenshot=true](../images/external-ee3958f4faea.jpg)
 - Navigate to **Services** and select **Laboratory Services**.
@@ -122,4 +126,6 @@ Type/quantity of specimen collected
 
 - Check the patient timeline after completion to confirm the workflow was recorded correctly.
 
-### Link to Loom[https://loom.com/share/f40a739818534470bab0341befb03065](https://loom.com/share/f40a739818534470bab0341befb03065)
+### Link to Loom
+
+[https://loom.com/share/f40a739818534470bab0341befb03065](https://loom.com/share/f40a739818534470bab0341befb03065)

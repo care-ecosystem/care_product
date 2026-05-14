@@ -4,9 +4,13 @@ page_id: 48595137
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595137
 ---
 
-### ObjectiveThis SOP explains how billing staff can access patient accounts, review billable items, create an invoice, collect payment, and mark the account as balanced. It ensures payments are processed accurately and receipts are issued to the patient.
+### Objective
 
-### Key Steps**1. Open the Billing menu and view billable patient accounts** [0:01](https://loom.com/share/602983df5a2b48fb8b2fd522faa81266?t=1)
+This SOP explains how billing staff can access patient accounts, review billable items, create an invoice, collect payment, and mark the account as balanced. It ensures payments are processed accurately and receipts are issued to the patient.
+
+### Key Steps
+
+**1. Open the Billing menu and view billable patient accounts** [0:01](https://loom.com/share/602983df5a2b48fb8b2fd522faa81266?t=1)
 
 ![https://loom.com/i/1e931d9a99524f579322c4f0680060cf?workflows_screenshot=true](../images/external-b5f41750c33b.jpg)
 - Log in to the system using your staff credentials.
@@ -95,4 +99,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Verify the account balance before closing the patient record to prevent follow-up errors.
 
-### Link to Loom[https://loom.com/share/602983df5a2b48fb8b2fd522faa81266](https://loom.com/share/602983df5a2b48fb8b2fd522faa81266)
+### Link to Loom
+
+[https://loom.com/share/602983df5a2b48fb8b2fd522faa81266](https://loom.com/share/602983df5a2b48fb8b2fd522faa81266)

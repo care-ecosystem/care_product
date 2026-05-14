@@ -4,9 +4,13 @@ page_id: 48595436
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595436
 ---
 
-### ObjectiveTo help team members locate and review a patient’s previous encounters from the patient dashboard. This SOP explains how to identify the current encounter and open earlier encounters to view what was updated in each one.
+### Objective
 
-### Key Steps**1. Open the Patient Dashboard** [0:02](https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889?t=2)
+To help team members locate and review a patient’s previous encounters from the patient dashboard. This SOP explains how to identify the current encounter and open earlier encounters to view what was updated in each one.
+
+### Key Steps
+
+**1. Open the Patient Dashboard** [0:02](https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889?t=2)
 
 ![https://loom.com/i/afb95732fe4047d584ddb4dbb0b9fa92?workflows_screenshot=true](../images/external-285e75f2ddde.jpg)
 - Navigate to the **patient dashboard** for the selected patient.
@@ -74,4 +78,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - If you need to compare changes across visits, open encounters in chronological order for easier review.
 
-### Link to Loom[https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889](https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889)
+### Link to Loom
+
+[https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889](https://loom.com/share/63b50ad1cdc54e739674ffcf8790f889)

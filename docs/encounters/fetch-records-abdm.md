@@ -4,9 +4,13 @@ page_id: 48562586
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562586
 ---
 
-### ObjectiveThis SOP explains how to request and retrieve patient health records through ABDM from the patient dashboard in Care. It ensures team members can submit consent correctly, monitor request status, and access fetched records efficiently.
+### Objective
 
-### Key Steps**1. Open the Patient Dashboard and Access Encounter Actions** [0:02](https://loom.com/share/6333522c81e94647a8fed52e0065fa99?t=2)
+This SOP explains how to request and retrieve patient health records through ABDM from the patient dashboard in Care. It ensures team members can submit consent correctly, monitor request status, and access fetched records efficiently.
+
+### Key Steps
+
+**1. Open the Patient Dashboard and Access Encounter Actions** [0:02](https://loom.com/share/6333522c81e94647a8fed52e0065fa99?t=2)
 
 ![https://loom.com/i/23a729f1d9a74b19b40fd6b4fbe8de33?workflows_screenshot=true](../images/external-7a5d5a38a418.jpg)
 - Navigate to the **Patient Dashboard**.
@@ -104,4 +108,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Keep the requested date range as specific as possible to retrieve only relevant records.
 
-### Link to Loom[https://loom.com/share/6333522c81e94647a8fed52e0065fa99](https://loom.com/share/6333522c81e94647a8fed52e0065fa99)
+### Link to Loom
+
+[https://loom.com/share/6333522c81e94647a8fed52e0065fa99](https://loom.com/share/6333522c81e94647a8fed52e0065fa99)

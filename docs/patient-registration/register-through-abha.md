@@ -4,9 +4,13 @@ page_id: 48562813
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562813
 ---
 
-### ObjectiveThis SOP explains how to register a patient through ABHA in Care, including generating a new ABHA number, verifying the patient, and completing the registration. It is intended to help staff complete the process accurately and consistently.
+### Objective
 
-### Key Steps**1. Open the patient registration area** [0:01](https://loom.com/share/cf16417a66904565b26f7fe0758328ae?t=1)
+This SOP explains how to register a patient through ABHA in Care, including generating a new ABHA number, verifying the patient, and completing the registration. It is intended to help staff complete the process accurately and consistently.
+
+### Key Steps
+
+**1. Open the patient registration area** [0:01](https://loom.com/share/cf16417a66904565b26f7fe0758328ae?t=1)
 
 ![image-20260508-092514.png](../images/image-20260508-092514.png)
 - Review all data shown on the final page carefully.
@@ -37,4 +41,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Download the ABHA details immediately after creation for easy recordkeeping.
 
-### Link to Loom[https://loom.com/share/cf16417a66904565b26f7fe0758328ae](https://loom.com/share/cf16417a66904565b26f7fe0758328ae)
+### Link to Loom
+
+[https://loom.com/share/cf16417a66904565b26f7fe0758328ae](https://loom.com/share/cf16417a66904565b26f7fe0758328ae)

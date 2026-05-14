@@ -4,9 +4,13 @@ page_id: 48595368
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595368
 ---
 
-### ObjectiveThis SOP explains how to mark a patient encounter as complete after the doctor-patient interaction has ended. It provides both the menu-based method and the keyboard shortcut for efficient completion.
+### Objective
 
-### Key Steps**1. Open Encounter Actions** [0:02](https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660?t=2)
+This SOP explains how to mark a patient encounter as complete after the doctor-patient interaction has ended. It provides both the menu-based method and the keyboard shortcut for efficient completion.
+
+### Key Steps
+
+**1. Open Encounter Actions** [0:02](https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660?t=2)
 
 ![https://loom.com/i/415ccbf7b8dc4c1fa4bf83f85afd8bcc?workflows_screenshot=true](../images/external-fdb30c775e5e.jpg)
 - Navigate to the relevant encounter record.
@@ -47,4 +51,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Keep the **Encounter Actions** menu location in mind for cases where the shortcut is unavailable.
 
-### Link to Loom[https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660](https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660)
+### Link to Loom
+
+[https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660](https://loom.com/share/d29e1b1061c44270bb3f7c9afbd6a660)

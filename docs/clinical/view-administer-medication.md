@@ -4,7 +4,9 @@ page_id: 48562663
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562663
 ---
 
-### ObjectiveTo provide a clear, repeatable process for viewing a patient’s prescription and recording medication administration in the Care typically for an inpatient encounter. This SOP ensures medication status and administration times are documented accurately.
+### Objective
+
+To provide a clear, repeatable process for viewing a patient’s prescription and recording medication administration in the Care typically for an inpatient encounter. This SOP ensures medication status and administration times are documented accurately.
 
 ### Key Steps![https://loom.com/i/8b4ee64de8784ebaa1858ccba6f9ec5a?workflows_screenshot=true](../images/external-1fbede37bb34.jpg)
 - In the patient dashboard, navigate to **Medicines** section on top.
@@ -67,4 +69,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Confirm the record immediately after submission to ensure it saved correctly.
 
-### Link to Loom[https://loom.com/share/ea28f3780a4a4dd489485e83af924437](https://loom.com/share/ea28f3780a4a4dd489485e83af924437)
+### Link to Loom
+
+[https://loom.com/share/ea28f3780a4a4dd489485e83af924437](https://loom.com/share/ea28f3780a4a4dd489485e83af924437)

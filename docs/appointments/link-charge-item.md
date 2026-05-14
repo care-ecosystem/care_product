@@ -4,9 +4,13 @@ page_id: 48562329
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562329
 ---
 
-### ObjectiveThis SOP explains how to link an existing charge item definition to a service’s schedule so charges can be applied correctly to appointments. It also covers the option to create a new charge item definition if needed.
+### Objective
 
-### Key Steps**1. Open the Relevant Service and Navigate to Schedule** [0:03](https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21?t=3)
+This SOP explains how to link an existing charge item definition to a service’s schedule so charges can be applied correctly to appointments. It also covers the option to create a new charge item definition if needed.
+
+### Key Steps
+
+**1. Open the Relevant Service and Navigate to Schedule** [0:03](https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21?t=3)
 
 ![https://loom.com/i/e5acc41e80624bde873e45d11ef36fed?workflows_screenshot=true](../images/external-464200d07365.jpg)
 - Locate and select the **relevant service** you want to update.
@@ -66,4 +70,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - After saving, verify the success message immediately to confirm the change took effect.
 
-### Link to Loom[https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21](https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21)
+### Link to Loom
+
+[https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21](https://loom.com/share/a9982740383d48ad9a0c7aab04a26f21)

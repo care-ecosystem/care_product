@@ -4,9 +4,13 @@ page_id: 52101413
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/52101413
 ---
 
-### ObjectiveThis SOP outlines the steps to create a patient encounter in the CARE system, ensuring accurate documentation and tracking of patient interactions.
+### Objective
 
-### Key Steps**Step 1: Access Patient Search** [0:00](https://loom.com/share/c471c3bab27940e19670af50d988c437?t=0)
+This SOP outlines the steps to create a patient encounter in the CARE system, ensuring accurate documentation and tracking of patient interactions.
+
+### Key Steps
+
+**Step 1: Access Patient Search** [0:00](https://loom.com/share/c471c3bab27940e19670af50d988c437?t=0)
 
 ![https://loom.com/i/5432b43f1d6f475e93995ffc4c62739b?workflows_screenshot=true](../images/external-10b386ff6c16.jpg)
 - Navigate to the left navigation bar in the CARE system.
@@ -53,4 +57,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Use keyboard shortcuts where possible to navigate the CARE system more quickly.
 
-### Link to Loom[https://loom.com/share/c471c3bab27940e19670af50d988c437](https://loom.com/share/c471c3bab27940e19670af50d988c437)
+### Link to Loom
+
+[https://loom.com/share/c471c3bab27940e19670af50d988c437](https://loom.com/share/c471c3bab27940e19670af50d988c437)

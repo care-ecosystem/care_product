@@ -4,9 +4,13 @@ page_id: 48562370
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562370
 ---
 
-### ObjectiveThis SOP explains how to assign one or more departments to a specific location in Care. It ensures the selected location is properly associated with the required departments for accurate organization setup and management.
+### Objective
 
-### Key Steps**1. Open the Locations Settings** [0:02](https://loom.com/share/11fe8ef4471f4cb29ca167401336d416?t=2)
+This SOP explains how to assign one or more departments to a specific location in Care. It ensures the selected location is properly associated with the required departments for accurate organization setup and management.
+
+### Key Steps
+
+**1. Open the Locations Settings** [0:02](https://loom.com/share/11fe8ef4471f4cb29ca167401336d416?t=2)
 
 ![https://loom.com/i/4d3b5541ad4a4f90bfd66c8c0291f6b5?workflows_screenshot=true](../images/external-005737851135.jpg)
 - Navigate to **Settings**.
@@ -54,4 +58,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Verify the final assignment immediately after saving to reduce correction time later.
 
-### Link to Loom[https://loom.com/share/11fe8ef4471f4cb29ca167401336d416](https://loom.com/share/11fe8ef4471f4cb29ca167401336d416)
+### Link to Loom
+
+[https://loom.com/share/11fe8ef4471f4cb29ca167401336d416](https://loom.com/share/11fe8ef4471f4cb29ca167401336d416)

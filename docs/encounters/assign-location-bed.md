@@ -4,9 +4,13 @@ page_id: 48628017
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48628017
 ---
 
-### ObjectiveThis SOP explains how to assign a room, ward, or bed location to a patient from the Patient Encounter page. Following these steps ensures the patient’s assigned location is recorded correctly and can be viewed later in the location section.
+### Objective
 
-### Key Steps**1. Open the Location Assignment Area** [0:02](https://loom.com/share/2c186e9f63ec497cbc939d265db84d36?t=2)
+This SOP explains how to assign a room, ward, or bed location to a patient from the Patient Encounter page. Following these steps ensures the patient’s assigned location is recorded correctly and can be viewed later in the location section.
+
+### Key Steps
+
+**1. Open the Location Assignment Area** [0:02](https://loom.com/share/2c186e9f63ec497cbc939d265db84d36?t=2)
 
 ![https://loom.com/i/f11908c173114ced9db935c0da95efb8?workflows_screenshot=true](../images/external-818a49a0d6d5.jpg)
 - Navigate to the **Patient Encounter** page.
@@ -59,4 +63,6 @@ Rooms
 
 - Standardize location naming conventions within the facility to make selection faster and more accurate.
 
-### Link to Loom[https://loom.com/share/2c186e9f63ec497cbc939d265db84d36](https://loom.com/share/2c186e9f63ec497cbc939d265db84d36)
+### Link to Loom
+
+[https://loom.com/share/2c186e9f63ec497cbc939d265db84d36](https://loom.com/share/2c186e9f63ec497cbc939d265db84d36)

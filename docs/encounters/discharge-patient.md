@@ -4,9 +4,13 @@ page_id: 48562475
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562475
 ---
 
-### ObjectiveThis SOP explains how to discharge a patient encounter in the Patient Encounter page using the Update Encounter option. It ensures the encounter status is updated correctly and any relevant discharge details are completed before closing the encounter.
+### Objective
 
-### Key Steps**1. Open the Patient Encounter and access Update Encounter** [0:02](https://loom.com/share/c867a5afd1c643ed80bec876334b575e?t=2)
+This SOP explains how to discharge a patient encounter in the Patient Encounter page using the Update Encounter option. It ensures the encounter status is updated correctly and any relevant discharge details are completed before closing the encounter.
+
+### Key Steps
+
+**1. Open the Patient Encounter and access Update Encounter** [0:02](https://loom.com/share/c867a5afd1c643ed80bec876334b575e?t=2)
 
 ![https://loom.com/i/d92567dc7c4b4583b7c2505815375a3c?workflows_screenshot=true](../images/external-7f0abee2d749.jpg)
 - Navigate to the **Patient Encounter** page.
@@ -65,4 +69,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Use a consistent discharge reason format to keep records clear and easy to review.
 
-### Link to Loom[https://loom.com/share/c867a5afd1c643ed80bec876334b575e](https://loom.com/share/c867a5afd1c643ed80bec876334b575e)
+### Link to Loom
+
+[https://loom.com/share/c867a5afd1c643ed80bec876334b575e](https://loom.com/share/c867a5afd1c643ed80bec876334b575e)

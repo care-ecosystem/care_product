@@ -4,9 +4,13 @@ page_id: 48595506
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595506
 ---
 
-### ObjectiveThis SOP explains how to update a registered patient’s demography details in the system. It guides the user through opening the patient profile, accessing the edit function, making changes, and saving the updates.
+### Objective
 
-### Key Steps**1. Open the Patient Profile** [0:02](https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad?t=2)
+This SOP explains how to update a registered patient’s demography details in the system. It guides the user through opening the patient profile, accessing the edit function, making changes, and saving the updates.
+
+### Key Steps
+
+**1. Open the Patient Profile** [0:02](https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad?t=2)
 
 ![https://loom.com/i/50a7b357de144cffa86bc78de1d9b556?workflows_screenshot=true](../images/external-c9e0b606a8e9.jpg)
 - Locate the registered patient in the system.
@@ -62,4 +66,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Use a consistent process for every patient record to reduce errors.
 
-### Link to Loom[https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad](https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad)
+### Link to Loom
+
+[https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad](https://loom.com/share/b41125f280bb4b0e86f155883fddd3ad)

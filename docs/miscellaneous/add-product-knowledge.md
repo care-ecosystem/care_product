@@ -4,9 +4,13 @@ page_id: 48595699
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595699
 ---
 
-### ObjectiveThis SOP explains how to create product knowledge in Care by first selecting or creating the appropriate category, then entering the product details and related attributes. It ensures the product is set up consistently so team members can manage and reference it correctly.
+### Objective
 
-### Key Steps**1. Open Product Knowledge in Settings** [0:01](https://loom.com/share/e42458784d6c43f698bb962d3952852f?t=1)
+This SOP explains how to create product knowledge in Care by first selecting or creating the appropriate category, then entering the product details and related attributes. It ensures the product is set up consistently so team members can manage and reference it correctly.
+
+### Key Steps
+
+**1. Open Product Knowledge in Settings** [0:01](https://loom.com/share/e42458784d6c43f698bb962d3952852f?t=1)
 
 ![https://loom.com/i/774427307548428094631b3ad3bb97d6?workflows_screenshot=true](../images/external-b5899e50038a.jpg)
 - Go to **Settings**.
@@ -59,4 +63,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Verify all required fields before saving to avoid having to reopen and edit the record.
 
-### Link to Loom[https://loom.com/share/e42458784d6c43f698bb962d3952852f](https://loom.com/share/e42458784d6c43f698bb962d3952852f)
+### Link to Loom
+
+[https://loom.com/share/e42458784d6c43f698bb962d3952852f](https://loom.com/share/e42458784d6c43f698bb962d3952852f)

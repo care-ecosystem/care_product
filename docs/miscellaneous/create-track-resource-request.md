@@ -4,9 +4,13 @@ page_id: 48628146
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48628146
 ---
 
-### ObjectiveThis SOP explains how to create a resource request for a patient, submit it to the appropriate facility, and track or update the request status. It ensures staff can complete the process accurately and monitor progress through approval or other outcomes.
+### Objective
 
-### Key Steps**1. Open the Patient Profile** [0:01](https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724?t=1)
+This SOP explains how to create a resource request for a patient, submit it to the appropriate facility, and track or update the request status. It ensures staff can complete the process accurately and monitor progress through approval or other outcomes.
+
+### Key Steps
+
+**1. Open the Patient Profile** [0:01](https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724?t=1)
 
 ![https://loom.com/i/6df950880cc3437ca893dd8851b3e31c?workflows_screenshot=true](../images/external-ecef3a50ec59.jpg)
 - Search for the patient using the patient ID.
@@ -104,4 +108,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Review both incoming and outgoing requests daily if your workflow depends on timely coordination.
 
-### Link to Loom[https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724](https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724)
+### Link to Loom
+
+[https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724](https://loom.com/share/d7a9bc42ddbd4790bb2ab98b0e062724)

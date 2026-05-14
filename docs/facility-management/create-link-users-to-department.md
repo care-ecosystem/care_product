@@ -4,9 +4,13 @@ page_id: 48595180
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595180
 ---
 
-### ObjectiveThis SOP explains how to add a new user to a department or link an existing user to a department from the Settings area. It ensures users are assigned correctly with the appropriate role and access.
+### Objective
 
-### Key Steps**1. Open Department Settings** [0:02](https://loom.com/share/bba88207729545b9bebea6663acd4f56?t=2)
+This SOP explains how to add a new user to a department or link an existing user to a department from the Settings area. It ensures users are assigned correctly with the appropriate role and access.
+
+### Key Steps
+
+**1. Open Department Settings** [0:02](https://loom.com/share/bba88207729545b9bebea6663acd4f56?t=2)
 
 ![https://loom.com/i/289be0c29bec4122ba7143b583421c01?workflows_screenshot=true](../images/external-2057023a725d.jpg)
 - Navigate to **Settings**.
@@ -91,4 +95,6 @@ Set the password immediately yourself, or
 
 - If multiple users need to be added, complete one department at a time for better organization.
 
-### Link to Loom[https://loom.com/share/bba88207729545b9bebea6663acd4f56](https://loom.com/share/bba88207729545b9bebea6663acd4f56)
+### Link to Loom
+
+[https://loom.com/share/bba88207729545b9bebea6663acd4f56](https://loom.com/share/bba88207729545b9bebea6663acd4f56)

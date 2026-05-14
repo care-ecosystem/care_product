@@ -4,9 +4,13 @@ page_id: 48496811
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48496811
 ---
 
-### ObjectiveTo guide a practitioner or team member through creating a service request from the patient encounter page in Care. This SOP covers ordering lab investigations, procedures, and radiology-related investigations so they can be viewed under Service Request.
+### Objective
 
-### Key Steps**1. Open the Patient Encounter Page and Select Service Request** [0:02](https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd?t=2)
+To guide a practitioner or team member through creating a service request from the patient encounter page in Care. This SOP covers ordering lab investigations, procedures, and radiology-related investigations so they can be viewed under Service Request.
+
+### Key Steps
+
+**1. Open the Patient Encounter Page and Select Service Request** [0:02](https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd?t=2)
 
 ![https://loom.com/i/db8349db2d9044d0a285cd305130d0db?workflows_screenshot=true](../images/external-30a0f78b0ed1.jpg)
 - Navigate to the **Patient Encounter** page.
@@ -57,4 +61,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Standardize request entry practices across practitioners to improve consistency.
 
-### Link to Loom[https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd](https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd)
+### Link to Loom
+
+[https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd](https://loom.com/share/00c7aebc1cf54cbea8de32ed647bd7dd)

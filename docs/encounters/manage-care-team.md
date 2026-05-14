@@ -4,9 +4,13 @@ page_id: 48627980
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48627980
 ---
 
-### ObjectiveThis SOP explains how to add one or more doctors to a patient’s Managed Care Team from the patient encounter page. It also covers how to designate or change the primary doctor when needed.
+### Objective
 
-### Key Steps**1. Open the Managed Care Team section** [0:02](https://loom.com/share/b544dea739c142e5afbe6d56e5547fec?t=2)
+This SOP explains how to add one or more doctors to a patient’s Managed Care Team from the patient encounter page. It also covers how to designate or change the primary doctor when needed.
+
+### Key Steps
+
+**1. Open the Managed Care Team section** [0:02](https://loom.com/share/b544dea739c142e5afbe6d56e5547fec?t=2)
 
 ![https://loom.com/i/405f0a382f59467188893842d677cf77?workflows_screenshot=true](../images/external-734a994d405d.jpg)
 - Navigate to the **patient encounter page**.
@@ -69,4 +73,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Double-check spelling and department selection to avoid correction later.
 
-### Link to Loom[https://loom.com/share/b544dea739c142e5afbe6d56e5547fec](https://loom.com/share/b544dea739c142e5afbe6d56e5547fec)
+### Link to Loom
+
+[https://loom.com/share/b544dea739c142e5afbe6d56e5547fec](https://loom.com/share/b544dea739c142e5afbe6d56e5547fec)

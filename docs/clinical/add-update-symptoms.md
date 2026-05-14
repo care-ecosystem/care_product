@@ -4,9 +4,13 @@ page_id: 48562514
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562514
 ---
 
-### ObjectiveThis SOP explains how to add a symptom for a patient in Care and how to review or modify that symptom after it has been submitted. It ensures symptoms are documented accurately with the correct onset date, severity, and verification details.
+### Objective
 
-### Key Steps**1. Open Encounter Actions and select Add Symptom** [0:02](https://loom.com/share/91423608936a48c5b95723aafe08f825?t=2)
+This SOP explains how to add a symptom for a patient in Care and how to review or modify that symptom after it has been submitted. It ensures symptoms are documented accurately with the correct onset date, severity, and verification details.
+
+### Key Steps
+
+**1. Open Encounter Actions and select Add Symptom** [0:02](https://loom.com/share/91423608936a48c5b95723aafe08f825?t=2)
 
 ![https://loom.com/i/62bfa0b72b804956b7eda8393bafe4d0?workflows_screenshot=true](../images/external-ad5307cce7b9.jpg)
 - Navigate to **Encounter Actions** for the patient.
@@ -63,4 +67,6 @@ Update the symptom details
 
 - Confirm the symptom appears in the record after submission to avoid duplicate entries.
 
-### Link to Loom[https://loom.com/share/91423608936a48c5b95723aafe08f825](https://loom.com/share/91423608936a48c5b95723aafe08f825)
+### Link to Loom
+
+[https://loom.com/share/91423608936a48c5b95723aafe08f825](https://loom.com/share/91423608936a48c5b95723aafe08f825)

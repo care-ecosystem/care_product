@@ -4,9 +4,13 @@ page_id: 48595219
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595219
 ---
 
-### ObjectiveThis SOP explains how to create and organize facility locations in Care, including buildings, floors, wards, rooms, beds, and organizational assignments. It ensures the facility hierarchy is accurate so beds, departments, and services can be managed efficiently.
+### Objective
 
-### Key Steps**1. Prepare to Configure Facility Locations** [0:30](https://loom.com/share/65478bd0980649cf83a50a8cbcc94675?t=30)
+This SOP explains how to create and organize facility locations in Care, including buildings, floors, wards, rooms, beds, and organizational assignments. It ensures the facility hierarchy is accurate so beds, departments, and services can be managed efficiently.
+
+### Key Steps
+
+**1. Prepare to Configure Facility Locations** [0:30](https://loom.com/share/65478bd0980649cf83a50a8cbcc94675?t=30)
 
 ![https://loom.com/i/4c504c94ade24314ba73fc18d8734aae?workflows_screenshot=true](../images/external-aad258f2a2df.jpg)
 - Confirm you have valid access credentials and the correct admin permissions.
@@ -171,4 +175,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Review the hierarchy after each major section to catch mistakes early.
 
-### Link to Loom[https://loom.com/share/65478bd0980649cf83a50a8cbcc94675](https://loom.com/share/65478bd0980649cf83a50a8cbcc94675)
+### Link to Loom
+
+[https://loom.com/share/65478bd0980649cf83a50a8cbcc94675](https://loom.com/share/65478bd0980649cf83a50a8cbcc94675)

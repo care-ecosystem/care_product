@@ -4,9 +4,13 @@ page_id: 48562701
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562701
 ---
 
-### ObjectiveThis SOP explains how to add an allergy to a patient’s record, including updating key allergy details and reviewing options to edit or remove the allergy afterward. 
+### Objective
 
-### Key Steps**1. Open Encounter Actions and Select Add Allergy** [0:02](https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7?t=2)
+This SOP explains how to add an allergy to a patient’s record, including updating key allergy details and reviewing options to edit or remove the allergy afterward. 
+
+### Key Steps
+
+**1. Open Encounter Actions and Select Add Allergy** [0:02](https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7?t=2)
 
 ![https://loom.com/i/0b0e70580b7441b592cb535d20c3e0f8?workflows_screenshot=true](../images/external-7ee5ac2ee3fd.jpg)
 - From the patient encounter, click **Encounter Actions**.
@@ -70,4 +74,6 @@ Click **Edit** to update the allergy
 
 - Keep documentation consistent by entering dates in the same format used by your organization.
 
-### Link to Loom[https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7](https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7)
+### Link to Loom
+
+[https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7](https://loom.com/share/b49ed5499bf345e3aa7f0f091bb7c7b7)

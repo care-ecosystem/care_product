@@ -4,9 +4,13 @@ page_id: 48562295
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562295
 ---
 
-### ObjectiveTo provide a clear, repeatable process for scheduling a patient appointment with a selected health care service in the facility. This SOP also covers confirming the appointment, billing the charges, and printing the appointment details.
+### Objective
 
-### Key Steps**1. Open the Patient Homepage and Start Appointment Scheduling** [0:00](https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6?t=0)
+To provide a clear, repeatable process for scheduling a patient appointment with a selected health care service in the facility. This SOP also covers confirming the appointment, billing the charges, and printing the appointment details.
+
+### Key Steps
+
+**1. Open the Patient Homepage and Start Appointment Scheduling** [0:00](https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6?t=0)
 
 ![https://loom.com/i/d44980c8bd604202ad9ad2c78beab160?workflows_screenshot=true](../images/external-e28e04dfe824.jpg)
 - Navigate to the **Patient Homepage**.
@@ -59,4 +63,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - If your system supports it, use standardized service names to minimize selection errors.
 
-### Link to Loom[https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6](https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6)
+### Link to Loom
+
+[https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6](https://loom.com/share/f2b32a67c968469bb55c23e3c619c2f6)

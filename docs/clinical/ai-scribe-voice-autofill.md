@@ -4,9 +4,13 @@ page_id: 48595471
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595471
 ---
 
-### ObjectiveTo guide a team member in capturing the patient’s vital signs, symptoms, assessment, and short-term treatment plan etc in a clear, structured way via the tool AI scribe which is a multilingual voice to text tool which automatically detects relevant parameters from the voice and updates information in the right fields. 
+### Objective
 
-### Key Steps**Select the relevant Clinical Form. **
+To guide a team member in capturing the patient’s vital signs, symptoms, assessment, and short-term treatment plan etc in a clear, structured way via the tool AI scribe which is a multilingual voice to text tool which automatically detects relevant parameters from the voice and updates information in the right fields. 
+
+### Key Steps
+
+**Select the relevant Clinical Form. **
 
 ![https://loom.com/i/dd21a20caf3f4f4eba211fa9026485a6?workflows_screenshot=true](../images/external-c3ed010251bf.jpg)
 - In the right bottom corner, there is a green button named ‘Voice Autofill’ which is AI Scribe button. Enable it. 
@@ -95,4 +99,6 @@ Accept all entries, or
 
 - If the workflow allows, use an "accept all" option only after confirming the note is accurate and complete. 
 
-### Link to Loom[https://loom.com/share/a2022f4bef3c49c6a3ef01c0ad1ad302](https://loom.com/share/a2022f4bef3c49c6a3ef01c0ad1ad302)
+### Link to Loom
+
+[https://loom.com/share/a2022f4bef3c49c6a3ef01c0ad1ad302](https://loom.com/share/a2022f4bef3c49c6a3ef01c0ad1ad302)

@@ -4,9 +4,13 @@ page_id: 48595732
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595732
 ---
 
-### ObjectiveTo provide a clear, repeatable process for pharmacists to review doctor prescriptions, handle stock shortages through approved substitutions, and dispense medicines to patients accurately. This SOP ensures prescriptions are processed efficiently and completed records are updated in the system.
+### Objective
 
-### Key Steps**1. Open the prescription list for the selected pharmacy** [0:01](https://loom.com/share/dd88ef3c63194804bf993292e245f334?t=1)
+To provide a clear, repeatable process for pharmacists to review doctor prescriptions, handle stock shortages through approved substitutions, and dispense medicines to patients accurately. This SOP ensures prescriptions are processed efficiently and completed records are updated in the system.
+
+### Key Steps
+
+**1. Open the prescription list for the selected pharmacy** [0:01](https://loom.com/share/dd88ef3c63194804bf993292e245f334?t=1)
 
 ![https://loom.com/i/e97dd88698794ede97e8c743b65a1db4?workflows_screenshot=true](../images/external-da24bc64d47e.jpg)
 - Navigate to **Services** in the left Navigation bar.
@@ -114,4 +118,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Keep the completed actions section updated for easier tracking and audit readiness.
 
-### Link to Loom[https://loom.com/share/dd88ef3c63194804bf993292e245f334](https://loom.com/share/dd88ef3c63194804bf993292e245f334)
+### Link to Loom
+
+[https://loom.com/share/dd88ef3c63194804bf993292e245f334](https://loom.com/share/dd88ef3c63194804bf993292e245f334)

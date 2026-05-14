@@ -4,9 +4,13 @@ page_id: 48562779
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562779
 ---
 
-### ObjectiveThis SOP explains how to access the treatment summary from a patient’s dashboard in Care and print it for sharing with the patient. It ensures team members can quickly locate, review, and produce patient’s treatment summary accurately.
+### Objective
 
-### Key Steps**1. Open the Patient Dashboard and Navigate to Reports** [0:02](https://loom.com/share/7af69724981b4c4bb8917d3b336eb268?t=2)
+This SOP explains how to access the treatment summary from a patient’s dashboard in Care and print it for sharing with the patient. It ensures team members can quickly locate, review, and produce patient’s treatment summary accurately.
+
+### Key Steps
+
+**1. Open the Patient Dashboard and Navigate to Reports** [0:02](https://loom.com/share/7af69724981b4c4bb8917d3b336eb268?t=2)
 
 ![https://loom.com/i/ac44c5e1ae2f496da70ade9a6fd4d84e?workflows_screenshot=true](../images/external-6b2b4527d9bb.jpg)
 - Log in to Care and open the relevant **patient dashboard**.
@@ -45,4 +49,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Review the summary on-screen first to avoid printing the wrong report.
 
-### Link to Loom[https://loom.com/share/7af69724981b4c4bb8917d3b336eb268](https://loom.com/share/7af69724981b4c4bb8917d3b336eb268)
+### Link to Loom
+
+[https://loom.com/share/7af69724981b4c4bb8917d3b336eb268](https://loom.com/share/7af69724981b4c4bb8917d3b336eb268)

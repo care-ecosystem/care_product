@@ -4,9 +4,13 @@ page_id: 48496967
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48496967
 ---
 
-### ObjectiveTo guide registration staff in locating and selecting the correct patient tags during new patient registration or after registration via scan-and-share workflows. This ensures the patient record is assigned the appropriate tax category accurately and consistently.
+### Objective
 
-### Key Steps**1. Open the Patient Search/Registration Area** [0:00](https://loom.com/share/04346009549e48c18decad287c6023fd?t=0)
+To guide registration staff in locating and selecting the correct patient tags during new patient registration or after registration via scan-and-share workflows. This ensures the patient record is assigned the appropriate tax category accurately and consistently.
+
+### Key Steps
+
+**1. Open the Patient Search/Registration Area** [0:00](https://loom.com/share/04346009549e48c18decad287c6023fd?t=0)
 
 ![https://loom.com/i/fe74f4f002704910b93c792e7ffbe118?workflows_screenshot=true](../images/external-eb3d24898ccf.jpg)
 - Log in using your registration staff credentials.
@@ -79,4 +83,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Keep the registration screen organized by completing tax selection immediately after entering patient details.
 
-### Link to Loom[https://loom.com/share/04346009549e48c18decad287c6023fd](https://loom.com/share/04346009549e48c18decad287c6023fd)
+### Link to Loom
+
+[https://loom.com/share/04346009549e48c18decad287c6023fd](https://loom.com/share/04346009549e48c18decad287c6023fd)

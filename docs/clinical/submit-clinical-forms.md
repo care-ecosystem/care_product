@@ -4,9 +4,13 @@ page_id: 48562740
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48562740
 ---
 
-### ObjectiveThis SOP explains how to complete and submit clinical forms from the patient encounter page. It guides the user through opening the form, entering required clinical details, adding investigations and treatment information, and submitting the completed form.
+### Objective
 
-### Key Steps**1. Open the Clinical Forms Section** [0:02](https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53?t=2)
+This SOP explains how to complete and submit clinical forms from the patient encounter page. It guides the user through opening the form, entering required clinical details, adding investigations and treatment information, and submitting the completed form.
+
+### Key Steps
+
+**1. Open the Clinical Forms Section** [0:02](https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53?t=2)
 
 ![https://loom.com/i/245a8b1502114227931c090fdf6d4dc0?workflows_screenshot=true](../images/external-532a56b4a4fe.jpg)
 - From the patient encounter page, click **Forms**.
@@ -97,4 +101,6 @@ Type the information manually, or
 
 - Review the form once before submission to reduce errors and rework.
 
-### Link to Loom[https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53](https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53)
+### Link to Loom
+
+[https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53](https://loom.com/share/62743f5ebd3a4d95a34caf77d4bc4b53)

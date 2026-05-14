@@ -4,9 +4,13 @@ page_id: 48496862
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48496862
 ---
 
-### ObjectiveThis SOP explains how a doctor can locate a patient encounter from the encounter list, complete the encounter, and restart a completed encounter when needed. It is intended to help team members perform these actions accurately and consistently.
+### Objective
 
-### Key Steps**1. Access the patient encounter list** [0:10](https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc?t=10)
+This SOP explains how a doctor can locate a patient encounter from the encounter list, complete the encounter, and restart a completed encounter when needed. It is intended to help team members perform these actions accurately and consistently.
+
+### Key Steps
+
+**1. Access the patient encounter list** [0:10](https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc?t=10)
 
 ![https://loom.com/i/ecf9ae89215e454b84fd93ab48a5b301?workflows_screenshot=true](../images/external-97045645094d.jpg)
 - Log in as a doctor.
@@ -68,4 +72,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Update patient details immediately after restarting to avoid missing required changes.
 
-### Link to Loom[https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc](https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc)
+### Link to Loom
+
+[https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc](https://loom.com/share/9d9df587b84e4b3a93b52c2a88e4acdc)

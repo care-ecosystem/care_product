@@ -4,9 +4,13 @@ page_id: 48595308
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595308
 ---
 
-### ObjectiveThis SOP explains how to record a patient’s consent in the Care patient dashboard. It ensures the consent record is entered accurately, including consent date, category, status, notes, and supporting files when needed.
+### Objective
 
-### Key Steps**1. Open the Patient Consent section** [0:02](https://loom.com/share/f9151363487541a89fc72722a257a35f?t=2)
+This SOP explains how to record a patient’s consent in the Care patient dashboard. It ensures the consent record is entered accurately, including consent date, category, status, notes, and supporting files when needed.
+
+### Key Steps
+
+**1. Open the Patient Consent section** [0:02](https://loom.com/share/f9151363487541a89fc72722a257a35f?t=2)
 
 ![https://loom.com/i/73120d34787347e5b5e2365001228f1c?workflows_screenshot=true](../images/external-74b1934b660f.jpg)
 - From the **Patient Dashboard**, locate the **Consent** option.
@@ -88,4 +92,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Double-check the consent decision and category before saving to avoid corrections later.
 
-### Link to Loom[https://loom.com/share/f9151363487541a89fc72722a257a35f](https://loom.com/share/f9151363487541a89fc72722a257a35f)
+### Link to Loom
+
+[https://loom.com/share/f9151363487541a89fc72722a257a35f](https://loom.com/share/f9151363487541a89fc72722a257a35f)

@@ -4,7 +4,9 @@ page_id: 48595582
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595582
 ---
 
-### ObjectiveThis SOP explains how a doctor can raise a lab test request for a patient using either from the patient dashboard or the form. It ensures the request is submitted correctly so it can be processed by the lab team.
+### Objective
+
+This SOP explains how a doctor can raise a lab test request for a patient using either from the patient dashboard or the form. It ensures the request is submitted correctly so it can be processed by the lab team.
 
 ### Key Steps![https://loom.com/i/4c7e84cdde754e27b8b0d3a6df08c309?workflows_screenshot=true](../images/external-9dbcb2c4d4de.jpg)
 - Go to the **Patient List**.
@@ -62,4 +64,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Standardize how requests are entered so the lab team can process them faster.
 
-### Link to Loom[https://loom.com/share/d0f65bb1b02748ed8867d07d6ab3000a](https://loom.com/share/d0f65bb1b02748ed8867d07d6ab3000a)
+### Link to Loom
+
+[https://loom.com/share/d0f65bb1b02748ed8867d07d6ab3000a](https://loom.com/share/d0f65bb1b02748ed8867d07d6ab3000a)

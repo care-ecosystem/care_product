@@ -4,9 +4,13 @@ page_id: 48628111
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48628111
 ---
 
-### ObjectiveThis SOP explains how to assign a user, such as a volunteer or ASHA worker, to a specific patient record. The goal is to ensure the assigned user can manage that patient within the system.
+### Objective
 
-### Key Steps**1. Locate the Patient Record** [0:12](https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a?t=12)
+This SOP explains how to assign a user, such as a volunteer or ASHA worker, to a specific patient record. The goal is to ensure the assigned user can manage that patient within the system.
+
+### Key Steps
+
+**1. Locate the Patient Record** [0:12](https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a?t=12)
 
 ![https://loom.com/i/3d5a4de349d54d9b9b5e6cdb9c9885ce?workflows_screenshot=true](../images/external-0bfd66058f35.jpg)
 - Open the patient assignment feature.
@@ -56,4 +60,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Assign only users who are authorized to manage the patient record.
 
-### Link to Loom[https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a](https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a)
+### Link to Loom
+
+[https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a](https://loom.com/share/0d2c7a2e555a4ecda0775bfd7721be4a)

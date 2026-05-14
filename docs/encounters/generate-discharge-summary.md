@@ -4,9 +4,13 @@ page_id: 48595403
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595403
 ---
 
-### ObjectiveThis SOP explains how to generate a discharge summary from a patient encounter in Care and print it if needed. It is intended to help team members complete the task quickly and consistently.
+### Objective
 
-### Key Steps**1. Open the Patient Encounter** [0:02](https://loom.com/share/55dde51dd2e7459a8c673596f20e3581?t=2)
+This SOP explains how to generate a discharge summary from a patient encounter in Care and print it if needed. It is intended to help team members complete the task quickly and consistently.
+
+### Key Steps
+
+**1. Open the Patient Encounter** [0:02](https://loom.com/share/55dde51dd2e7459a8c673596f20e3581?t=2)
 
 ![https://loom.com/i/0f6534ebad3e4d1c9de9d21bbba9b32a?workflows_screenshot=true](../images/external-0e166ae62d47.jpg)
 - From the **Patient Dashboard**, navigate to the relevant **patient encounter**.
@@ -45,4 +49,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - If printing frequently, confirm the default printer is set correctly in advance.
 
-### Link to Loom[https://loom.com/share/55dde51dd2e7459a8c673596f20e3581](https://loom.com/share/55dde51dd2e7459a8c673596f20e3581)
+### Link to Loom
+
+[https://loom.com/share/55dde51dd2e7459a8c673596f20e3581](https://loom.com/share/55dde51dd2e7459a8c673596f20e3581)

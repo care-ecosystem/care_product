@@ -4,9 +4,13 @@ page_id: 48595662
 source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c77374eedad7da15fad96ac25/pages/48595662
 ---
 
-### ObjectiveTo provide a clear, step-by-step process for registering a new patient manually in Care. This SOP ensures accurate patient data entry so the patient can be saved in the system and proceed to the next workflow step.
+### Objective
 
-### Key Steps**1. Open the Patient Registration Area** [0:01](https://loom.com/share/0715404a6647417d8aeb556c1b841c24?t=1)
+To provide a clear, step-by-step process for registering a new patient manually in Care. This SOP ensures accurate patient data entry so the patient can be saved in the system and proceed to the next workflow step.
+
+### Key Steps
+
+**1. Open the Patient Registration Area** [0:01](https://loom.com/share/0715404a6647417d8aeb556c1b841c24?t=1)
 
 ![https://loom.com/i/4cf85f265f7b4cba97ef21710f73261e?workflows_screenshot=true](../images/external-202c041e065e.jpg)
 - Log in to Bandal Wave and navigate to the **Patients** section.
@@ -81,4 +85,6 @@ source: https://openhealthcarenetwork.atlassian.net/wiki/spaces/~7120200a236b5c7
 
 - Save the record immediately after confirming all details are correct to avoid losing data.
 
-### Link to Loom[https://loom.com/share/0715404a6647417d8aeb556c1b841c24](https://loom.com/share/0715404a6647417d8aeb556c1b841c24)
+### Link to Loom
+
+[https://loom.com/share/0715404a6647417d8aeb556c1b841c24](https://loom.com/share/0715404a6647417d8aeb556c1b841c24)
