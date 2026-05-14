@@ -1,0 +1,93 @@
+/* Custom styles for Care Platform Documentation */
+
+:root {
+  --md-primary-fg-color: #009688;
+  --md-primary-fg-color--light: #26a69a;
+  --md-primary-fg-color--dark: #00796b;
+}
+
+/* Grid cards styling */
+.grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.grid.cards > * {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  padding: 1rem;
+  transition: box-shadow 0.2s;
+}
+
+.grid.cards > *:hover {
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+/* Stats grid */
+.grid:not(.cards) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.grid:not(.cards) > div {
+  background: var(--md-code-bg-color);
+  padding: 1rem;
+  border-radius: 0.2rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+}
+
+/* Image styling */
+img {
+  border-radius: 0.2rem;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mermaid diagrams */
+.mermaid {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+/* Custom admonition icons */
+.md-typeset .admonition.question,
+.md-typeset details.question {
+  border-color: rgb(68, 138, 255);
+}
+
+.md-typeset .question > .admonition-title,
+.md-typeset .question > summary {
+  background-color: rgba(68, 138, 255, 0.1);
+}
+
+/* Table improvements */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-code-bg-color);
+  font-weight: 600;
+}
+
+/* Code block improvements */
+.md-typeset pre > code {
+  border-radius: 0.2rem;
+}
+
+/* Navigation improvements */
+.md-nav__link--active {
+  font-weight: 600;
+}
+
+/* Footer styling */
+.md-footer {
+  background-color: var(--md-footer-bg-color);
+}
