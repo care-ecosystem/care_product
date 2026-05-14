@@ -147,8 +147,16 @@ This documentation was migrated from the Atlassian Confluence wiki space using a
 
 To update this documentation:
 1. Update the source pages in the Atlassian wiki
-2. Run the `fetch_wiki_docs.py` script from the repository root
-3. Review and commit the changes
+2. Run `python3 scripts/fetch_wiki_docs.py` from the repository root
+3. Run `python3 scripts/download_external_images.py` to download new external images
+4. Review and commit the changes
+
+### Scripts
+
+The following scripts are available in the `scripts/` directory:
+
+- **`fetch_wiki_docs.py`**: Fetches all pages from Atlassian Confluence and converts them to markdown
+- **`download_external_images.py`**: Downloads external images (like Loom thumbnails) and updates markdown references
 
 ---
 
