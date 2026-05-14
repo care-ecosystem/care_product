@@ -1,0 +1,212 @@
+site_name: Care Platform Documentation
+site_description: Comprehensive Standard Operating Procedures (SOPs) and how-to guides for the Care platform
+site_author: Open Healthcare Network
+site_url: https://careplatform.github.io/care_product
+
+# Repository
+repo_name: care_product
+repo_url: https://github.com/ohcnetwork/care_product
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2024 Open Healthcare Network
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    # Navigation
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+
+    # Search
+    - search.suggest
+    - search.highlight
+    - search.share
+
+    # Table of contents
+    - toc.follow
+    - toc.integrate
+
+    # Content
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - tags
+
+# Extensions
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Navigation
+nav:
+  - Home: index.md
+  - Getting Started: overview.md
+
+  - Facility Management:
+    - facility-management/index.md
+    - Create Health Facility: facility-management/create-health-facility.md
+    - Create Healthcare Service: facility-management/create-healthcare-service.md
+    - Create Department: facility-management/create-department.md
+    - Add & Organize Locations: facility-management/add-organize-locations.md
+    - Link Departments to Location: facility-management/link-departments-to-location.md
+    - Create/Link Users to Department: facility-management/create-link-users-to-department.md
+    - Add/Link User to Department: facility-management/add-link-user-to-department.md
+    - Create Multiple Beds: facility-management/create-multiple-beds.md
+    - Link HFID & Generate QR Code: facility-management/link-hfid-abdm-qr-code.md
+
+  - Appointments & Scheduling:
+    - appointments/index.md
+    - Schedule Appointment: appointments/schedule-appointment.md
+    - Link Charge Item: appointments/link-charge-item.md
+    - Cancel/Reschedule/Check-in: appointments/cancel-reschedule-checkin.md
+
+  - Patient Registration:
+    - patient-registration/index.md
+    - Register Patient Manually: patient-registration/register-patient-manually.md
+    - Register Through ABHA: patient-registration/register-through-abha.md
+    - Add Patient Tags: patient-registration/add-patient-tags.md
+    - Edit Demographics: patient-registration/edit-demography.md
+    - Assign User to Record: patient-registration/assign-user-to-record.md
+
+  - Patient Encounters:
+    - encounters/index.md
+    - Create Encounter: encounters/create-encounter.md
+    - Create Encounter Tag: encounters/create-encounter-tag.md
+    - Access/Complete/Restart Encounter: encounters/accessing-completing-restarting.md
+    - Mark Encounter Complete: encounters/mark-complete.md
+    - Discharge Patient: encounters/discharge-patient.md
+    - Generate Discharge Summary: encounters/generate-discharge-summary.md
+    - Add Patient Consent: encounters/add-patient-consent.md
+    - Assign Location/Bed: encounters/assign-location-bed.md
+    - Manage Care Team: encounters/manage-care-team.md
+    - View Previous Encounters: encounters/view-previous-encounters.md
+    - Fetch Records via ABDM: encounters/fetch-records-abdm.md
+
+  - Clinical Documentation:
+    - clinical/index.md
+    - Update Diagnosis: clinical/update-diagnosis.md
+    - Add/Update Symptoms: clinical/add-update-symptoms.md
+    - Add/Update Allergies: clinical/add-update-allergy.md
+    - Prescribe Medication: clinical/prescribe-medication.md
+    - View/Administer Medication: clinical/view-administer-medication.md
+    - Submit Clinical Forms: clinical/submit-clinical-forms.md
+    - Upload Clinical Files: clinical/upload-clinical-files.md
+    - Generate Treatment Summary: clinical/generate-treatment-summary.md
+    - AI Scribe Voice Autofill: clinical/ai-scribe-voice-autofill.md
+
+  - Laboratory & Diagnostics:
+    - laboratory/index.md
+    - Raise Lab Test Request: laboratory/raise-lab-test-request.md
+    - Service Request Review & Results: laboratory/service-request-review-specimen-result.md
+
+  - Billing & Finance:
+    - billing/index.md
+    - Staff Billing & Payment: billing/staff-billing-invoice-payment.md
+    - Create Discount Code: billing/create-discount-code.md
+
+  - Pharmacy:
+    - pharmacy/index.md
+    - Review & Dispense Medicines: pharmacy/review-dispense-medicines.md
+
+  - Miscellaneous:
+    - miscellaneous/index.md
+    - Add Service Request: miscellaneous/add-service-request.md
+    - Create/Track Resource Request: miscellaneous/create-track-resource-request.md
+    - Add Patient Notes: miscellaneous/add-patient-notes.md
+    - Add Product Knowledge: miscellaneous/add-product-knowledge.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ohcnetwork
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ohcnetwork
+
+  generator: false
+
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
