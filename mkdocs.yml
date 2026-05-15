@@ -188,6 +188,7 @@ nav:
 
   - Pharmacy:
     - pharmacy/index.md
+    - Pharmacy Setup Guide: pharmacy/pharmacy-setup-guide.md
     - Review & Dispense Medicines: pharmacy/review-dispense-medicines.md
 
   - Miscellaneous:

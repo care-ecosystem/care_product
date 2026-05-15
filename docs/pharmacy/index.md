@@ -8,9 +8,15 @@ Manage the complete pharmacy workflow from prescription review to medication dis
 
 ---
 
-## Available Guide
+## Available Guides
 
 <div class="grid cards" markdown>
+
+-   **Pharmacy Setup Guide**
+
+    Complete guide for setting up pharmacy module, managing inventory, stock control, and medication lifecycle management.
+
+    [:octicons-arrow-right-24: Read More](pharmacy-setup-guide.md)
 
 -   **Review & Dispense Medicines**
 
@@ -37,7 +43,7 @@ graph LR
 
 ## Quick Stats
 
-- **Total Guides**: 1
+- **Total Guides**: 2
 - **Workflow Stages**: 6 (Receive → Review → Check → Dispense → Document → Update)
 - **User Roles**: Pharmacists, Pharmacy Technicians
 
